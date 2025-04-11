@@ -1,0 +1,127 @@
+Marketing Analytics Report for Procrastinate Pro+
+
+1. Executive Summary
+
+Despite heavy investment in marketing between May and October 2019, Procrastinate Pro+ faces financial losses. This report investigates the cost-effectiveness of user acquisition, segmented by device, region, and marketing channel. Key metrics such as CAC (Customer Acquisition Cost), LTV (Lifetime Value), ROI (Return on Investment), conversion, and retention are analyzed to uncover underlying problems and suggest strategic recommendations.
+
+
+---
+
+2. User Profile Analysis
+
+By Device
+
+Highest LTV: iPhone and Mac users show the highest LTV over 14 days.
+
+Conversion Rate: iPhone and Mac have better conversion rates than Android and PC.
+
+ROI: Despite higher LTV, iPhone users do not reach ROI > 1 within 14 days, implying high acquisition costs.
+
+Retention: Paying user retention is higher on PC, but the general retention drops significantly for all devices.
+
+
+Conclusion: iPhone users are expensive to acquire and fail to reach profitability quickly. PC and Android provide more stable ROI growth.
+
+
+---
+
+By Region
+
+Highest LTV: U.S. users have the highest LTV.
+
+CAC: The CAC in the U.S. is significantly higher than in other regions.
+
+ROI: ROI for U.S. users remains below 1 at 14 days, failing the breakeven threshold.
+
+Retention: The UK shows the strongest retention and ROI performance over time.
+
+
+Conclusion: While U.S. users spend more, the acquisition costs outweigh their value. Germany and the UK offer better ROI profiles.
+
+
+---
+
+By Channel
+
+Top Channels (LTV): LambdaMediaAds and RocketSuperAds show superior LTV performance.
+
+CAC Issues: LambdaMediaAds has an extremely high CAC, which hampers ROI.
+
+Best ROI: Organic, FaceBoom, and YRabbit maintain ROI above 1 throughout the cohort lifecycle.
+
+Volatile Channels: TipTop and WahooNetBanner show inconsistent LTV and ROI metrics.
+
+
+Conclusion: Over-reliance on expensive channels (e.g., LambdaMediaAds) with poor payback undermines overall marketing efficiency. Organic and mid-cost channels offer better ROI consistency.
+
+
+---
+
+3. Conversion & Retention
+
+Conversion: Peaks with iPhone and Mac users. Android and PC lag.
+
+Retention of Paying Users: PC users maintain a relatively high retention; others show early drop-off.
+
+Non-Paying Users: Show universally low retention across all segments.
+
+
+Conclusion: User retention is critical. Channels and regions with stronger paying user retention should be prioritized.
+
+
+---
+
+4. CAC, LTV, and ROI Summary
+
+CAC Trend: Increased sharply in June and stabilized at high levels through October.
+
+LTV Trend: Plateauing after 8-10 days; iPhone and Mac show better values but don't compensate for higher CAC.
+
+ROI Trend: Most devices and regions fail to break even within 14 days. Only selected channels and PC users reach ROI > 1.
+
+
+
+---
+
+5. Key Findings
+
+1. Inefficient Channels: High-spend channels like LambdaMediaAds deliver poor ROI.
+
+
+2. Device Disparity: iPhone users, though valuable, are too costly to acquire profitably.
+
+
+3. Regional Focus Needed: U.S. users are the most expensive and least profitable. Focus should shift to the UK and Germany.
+
+
+4. Retention Weakness: General drop in retention after day 3 highlights need for onboarding and re-engagement strategies.
+
+
+5. Conversion Optimization: PC and Android need improved conversion funnel strategies.
+
+
+
+
+---
+
+6. Recommendations
+
+For Marketing Team
+
+Shift Budgets: Reduce or pause investment in LambdaMediaAds, TipTop, and high-CAC U.S. campaigns.
+
+Double Down on ROI-Positive Channels: Invest more in FaceBoom, YRabbit, and Organic sources.
+
+Device Targeting: Focus on PC and Android where ROI grows steadily and acquisition is affordable.
+
+Geographic Rebalance: Scale down U.S. campaigns; increase presence in the UK and Germany.
+
+Retention Strategies: Introduce push notifications, onboarding improvements, and rewards for early engagement.
+
+
+
+---
+
+7. Final Thoughts
+
+The company's losses are primarily due to inefficient channel spending and over-targeting high-CAC segments (especially iPhone users and U.S. market). By reallocating resources and focusing on ROI-positive strategies, Procrastinate Pro+ can significantly improve profitability.
